@@ -1,4 +1,0 @@
-delivary
-adress
-from 
-to
