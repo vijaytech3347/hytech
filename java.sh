@@ -7,6 +7,7 @@ class product
 	print("Hello")
 i
 
+prient "hi vijay"
 prient  zxy
 }
 
